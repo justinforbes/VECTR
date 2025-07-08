@@ -58,7 +58,7 @@ Most modern browsers, such as Chrome, Firefox, Edge (Chromium) up to two prior r
 
 ## License
 
-Please see the [EULA](./VECTR%20End%20User%20License%20Agreement.pdf)
+Please see the [EULA](./VECTR%20Community%20Edition%20EULA.pdf)
 
 Atomic Red [LICENSE](https://github.com/redcanaryco/atomic-red-team/blob/master/LICENSE.txt)
 
